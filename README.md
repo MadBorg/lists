@@ -1,3 +1,10 @@
+# Project for IN1910. In C++
+### Making 3 different datastructures.
+    Linked list
+    array list
+    circular linked list
+
+
 Name - Url of repo:
     https://github.uio.no/IN1910/H19_project2_nablisog_sanders.git
 Commands for compiling:
